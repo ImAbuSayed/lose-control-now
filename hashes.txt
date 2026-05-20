@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lose Control Now
+
+This log tracks the cryptographic history and versioning for the song **Lose Control Now** (lose-control-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T21:42:30.530430 | `v1` | `f04d5ac05b8865536a4ae797bd58f75d5ec38702f3a621e6fabbd0c704cc6fa8` | `3aadee3c1e04d8b875605d163bbf4e741d0ee4e1774e7e0da69105ab73e828d0` | `2026-05-20_lose-control-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

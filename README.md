@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lose-control-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Lose Control Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lose-control-now/) |
+| **Get License** | [Official Music Licensing for Lose Control Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lose-control-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f04d5ac05b8865536a4ae797bd58f75d5ec38702f3a621e6fabbd0c704cc6fa8` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
